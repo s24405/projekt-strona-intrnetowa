@@ -7,7 +7,7 @@
 </head>
 <body>
 <h3>FORMULARZ DO KOŁA</h3>
-<form action="kolo.php" method="POST">
+<form action="kolo.pghp" method="POST">
 
     <table>
 
