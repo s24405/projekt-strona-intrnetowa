@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="eng">
+<include="kolo.php">
+<head>
+    <meta charset="utf-8" />
+    <title>COKOLWIEKk</title>
+</head>
+<body>
+<h3>FORMULARZ DO KOŁA</h3>
+<form action="idk.php" method="GET">
+
+    <table>
+        <tr>
+            <td>wybor rodzaju czcionki</td>
+            <td><input name="wybor czcionki"></td>
+        </tr>
+        <tr>
+            <td>kolor2</td>
+            <td><input name="kolor2"></td>
+        </tr>
+        <tr>
+            <td>kolor3</td>
+            <td><input name="kolor3"></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td><input type="submit" value="Wyślij"></td>
+        </tr>
+    </table>
+
+
+
+</form>
+
+
+
+</body>
+</html>
